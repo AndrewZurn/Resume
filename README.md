@@ -49,6 +49,7 @@ Blue Cross Blue Shield of Minnesota (BCBSMN), Eagan, Minnesota
  * Facilitate and lead a work group around the development of BCBS products
  * Offer solutions using new technologies and methodologies to achieve deliverable deadlines drive time to market solutions
 
+
 *Computer Science Head Teaching Assitant* - August 2012 to January 2014
 
 Saint John's University (SJU), Collegeville, Minnesota
@@ -57,19 +58,22 @@ Saint John's University (SJU), Collegeville, Minnesota
  * Liason between department faculty and student teaching assistants
  * Drive student success
 
-*Technology Intern* - May 2013 to August 2013
-Thomson Reuters, Eagan, Minnesota
 
+*Technology Intern* - May 2013 to August 2013
+
+Thomson Reuters, Eagan, Minnesota
  * Streamlined content editing processes through implementation web-tools using Java Server Faces (JSF) and Spring
  * Develop other web tools using Google Web Toolkit and Spring MVC
  * Built back-end java database services with data-access objects using Hibernate
  
+
 *Data Steward - IT Intern* - May 2012 to May 2013
 
 Medtronic, Inc. Mounds View, Minnesota
  * Organized company data and ensured data met federal regulation
  * Participated in functional testing during SAP software implementation
  * Engineer VBA macros to simplify everyday Excel processes
+
 
 -----------------------------
 
